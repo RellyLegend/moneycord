@@ -14,13 +14,11 @@
 
 - Pre-built command handler!
 - Custom Mongo database
-- Custom variables to use (such as `getUser`, `deleteUser` & `createUser`)
+- Custom functions to use (such as `getUser`, `deleteUser` & `createUser`)
 
 Thanks for using Moneycord, you can always support me by inviting my Discord bots!
 
-[Ryuok - Top best Discord music bot](https://ryuok.glitch.me)
-
-[Lenox - Best, easy-to-use, customizable & multi-purposes Discord bot](https://lenoxboard.glitch.me)
+[Rave - Discord Music Bot](https://top.gg/bot/956968561551741038)
 
 Or by using my package, [Nightcord](https://nightcord.js.org)
 
